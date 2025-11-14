@@ -14,8 +14,8 @@ module.exports = {
         'light-silver': '#EAEAEA',
       },
       fontFamily: {
-        heading: ['Outfit', 'sans-serif'],
-        body: ['Libre Baskerville', 'serif'],
+        heading: ['Arial', 'Inter', '-apple-system', 'BlinkMacSystemFont', 'system-ui', 'sans-serif'],
+        body: ['Arial', 'Inter', '-apple-system', 'BlinkMacSystemFont', 'system-ui', 'sans-serif'],
       },
       spacing: {
         'xs': '8px',
