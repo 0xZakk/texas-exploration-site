@@ -1,12 +1,6 @@
 # Dependencies
 node_modules/
 
-# Build outputs
-dist/
-build/
-*.min.css
-*.min.js
-
 # Environment variables
 .env
 .env.local
